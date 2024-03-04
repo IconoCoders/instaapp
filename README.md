@@ -25,7 +25,7 @@ The latest version of Instapp for macOS, Linux and Windows is available [here](h
 ## Development
 Build your own version with this command:
 
-```nativefier "https://instagram.com" --name="Instapp" --app-version 1.0.0 --build-version 101 --width 375 --height 670 --min-width 375 --min-height 670 --max-width 375 --max-height 670 --fast-quit --user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1" --disable-dev-tools --crash-reporter="https://github.com/iconocoders/instaapp/issues/new"```
+```nativefier "https://instagram.com" --name="Instapp" --app-version 1.0.0 --build-version 101 --width 375 --height 670 --min-width 375 --min-height 670 --max-width 375 --max-height 670 --fast-quit --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" --disable-dev-tools --crash-reporter="https://github.com/iconocoders/instaapp/issues/new"```
 You can see available options [here](https://github.com/jiahaog/nativefier/blob/master/docs/api.md)
 
 ## License
